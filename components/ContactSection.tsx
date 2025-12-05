@@ -104,7 +104,7 @@ const ContactSection = () => {
                 <div>
                   <div className="text-sm text-gray-500">Email</div>
                   <div className="text-lg text-gray-300 group-hover:text-cyan-400 transition-colors">
-                    contact@example.com
+                    yasser.haoues66@gmail.com
                   </div>
                 </div>
               </motion.a>
@@ -124,7 +124,7 @@ const ContactSection = () => {
                 <div>
                   <div className="text-sm text-gray-500">GitHub</div>
                   <div className="text-lg text-gray-300 group-hover:text-cyan-400 transition-colors">
-                    github.com/yourusername
+                    https://github.com/yasxer
                   </div>
                 </div>
               </motion.a>
@@ -144,7 +144,7 @@ const ContactSection = () => {
                 <div>
                   <div className="text-sm text-gray-500">LinkedIn</div>
                   <div className="text-lg text-gray-300 group-hover:text-cyan-400 transition-colors">
-                    linkedin.com/in/yourprofile
+                    https://www.linkedin.com/in/yasser-haoues-09b239265?utm_source=share_via&utm_content=profile&utm_medium=member_ios
                   </div>
                 </div>
               </motion.a>
