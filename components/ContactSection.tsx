@@ -144,7 +144,7 @@ const ContactSection = () => {
                 <div>
                   <div className="text-sm text-gray-500">LinkedIn</div>
                   <div className="text-lg text-gray-300 group-hover:text-cyan-400 transition-colors">
-                    https://www.linkedin.com/in/yasser-haoues-09b239265?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+                    https://www.linkedin.com/in/yasser-haoues
                   </div>
                 </div>
               </motion.a>
